@@ -1,0 +1,23 @@
+{
+  "name": "fluc",
+  "version": "1.0.0",
+  "description": "An implementation of the flux pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infi-Knight/fluc.git"
+  },
+  "keywords": [
+    "flux",
+    "state"
+  ],
+  "author": "Ravi Soni <soniravi829@gmail.com> (https://ravisoni.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Infi-Knight/fluc/issues"
+  },
+  "homepage": "https://github.com/Infi-Knight/fluc#readme"
+}
